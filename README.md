@@ -1,8 +1,9 @@
-## 👐
+# 👐
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDanielWalker&theme=synthwave&show_icons=true)](https://github.com/RyanDanielWalker/github-readme-stats)
----
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDanielWalker&layout=compact)](https://github.com/RyanDanielWalker/github-readme-stats)
+---
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDanielWalker&theme=synthwave&show_icons=true)](https://github.com/RyanDanielWalker/github-readme-stats)
+
 
 
 <!--
