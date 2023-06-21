@@ -2,9 +2,6 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDanielWalker&layout=compact)](https://github.com/RyanDanielWalker/github-readme-stats)
 ---
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDanielWalker&theme=synthwave&show_icons=true)](https://github.com/RyanDanielWalker/github-readme-stats)
-
-
 
 <!--
 **RyanDanielWalker/RyanDanielWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
