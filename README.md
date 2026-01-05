@@ -8,3 +8,5 @@ I specialize in:
 - Building maintainable UI systems
 
 **Tech:** TypeScript, React, Angular, Node, NestJS, GraphQL, Prisma, SQL
+
+📌 Recent work is in private repositories or currently being refreshed.
