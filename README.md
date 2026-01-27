@@ -7,6 +7,6 @@ I specialize in:
 - Turning ambiguous requirements into shipped features
 - Building maintainable UI systems
 
-**Tech:** TypeScript, React, Angular, Node, NestJS, GraphQL, Prisma, SQL
+**Tech:** TypeScript, React, Angular, Node, NestJS, GraphQL, Prisma, SQL, NextJS
 
 📌 Recent work is in private repositories or currently being refreshed.
