@@ -1,4 +1,4 @@
-# Hey, I'm Ryan 👋
+# Hi, I'm Ryan 👋
 
 Full-stack software engineer in New York City. Five years shipping production web apps in TypeScript, React, Next.js and Node.
 
