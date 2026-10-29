@@ -9,7 +9,7 @@ Full-stack software engineer in New York City. Five years shipping production we
 
 ## What I'm building
 
-**[Snippr](https://snippr.dev)**: an AI-powered code snippet manager I built and shipped solo. One Next.js app on Prisma and Postgres, with its own MCP server so you can search and save snippets from Claude Code or Cursor. GitHub Actions CI gates every deploy (unit, database, and Playwright end-to-end tests), and 32 written decision records explain why it's built the way it is.
+**[Snippr](https://snippr.dev)**: an AI-powered code snippet manager I designed, built and shipped solo, with Claude Code as a pair programmer. One Next.js app on Prisma and Postgres, with its own MCP server so you can search and save snippets from Claude Code or Cursor. GitHub Actions CI gates every deploy (unit, database, and Playwright end-to-end tests), and 32 written decision records explain why it's built the way it is.
 
 ## Stack
 
